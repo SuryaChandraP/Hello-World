@@ -1,4 +1,3 @@
 <?php
-echo "Hello World";
-
+echo "Hello World";  // this command('echo') will prints given text
 ?>
